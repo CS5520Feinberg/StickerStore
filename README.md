@@ -1,1 +1,1 @@
-# A Movie App that help uses to select the movies they are interested in.
+# Sticker Store
